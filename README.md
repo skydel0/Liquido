@@ -1,4 +1,9 @@
 Liquido will manage all your Bases, Flavors, and Recipes for Free.
+
+Youtube:
+
+https://www.youtube.com/watch?v=Ynv6K4V9W2Y
+
 - Liquido will calculate all ingredients of your new Liquid you want to mix.
 In drops, ml and grams. With or without nicotine.
 
@@ -17,3 +22,20 @@ In drops, ml and grams. With or without nicotine.
 - Adjustable currency
 
 - Much languages: English, German, French, Italian, Spanish, Turkish, Danish, Dutch, Finish, Greek and Hungarian
+
+
+Android beta:
+
+https://play.google.com/apps/testing/com.Skydel0.Liquido
+
+IOS beta:
+
+Please pn me
+
+Facebook:
+
+https://www.facebook.com/liquidoMix/
+
+Patreon:
+
+https://www.patreon.com/DevinSpitz?ty=h
